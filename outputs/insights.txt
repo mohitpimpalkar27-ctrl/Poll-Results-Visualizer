@@ -1,0 +1,6 @@
+Cleaning report: {'input_rows': 5000, 'missing_or_invalid_rows_removed': 0, 'duplicate_answers_removed': 0, 'clean_rows': 5000}
+Poll: P001
+Analyzed 1,000 valid responses from 1,000 unique respondents.
+Leading option: Python with 413 votes (41.30%).
+Lead over Java: 15.40 percentage points.
+These are descriptive results for the selected sample, not population estimates.
