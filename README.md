@@ -54,5 +54,3 @@ After launching, save your screenshots to `images/` and add them here:
 ## Technology
 Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit, Pytest.
 
-## Author
-Add your name, GitHub profile and LinkedIn link.
